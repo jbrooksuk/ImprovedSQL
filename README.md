@@ -1,4 +1,4 @@
-# Improved Sublime Text SQL.tmLanguage
+# Improved SQL for Sublime Text
 It adds a whole bunch of extra syntax which is missing from the default file.
 
 # Copyright
